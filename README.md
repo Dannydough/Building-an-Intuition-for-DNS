@@ -117,6 +117,11 @@ Then, flush the DNS cache by running: "ipconfig /flushdns"
 11.) On DC-1, create a CNAME record that maps the hostname "search" to "www.google.com".
 
 <p>
-<img src="https://imgur.com/nkjtIjv.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/ftb5JyA.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/X7ZTJCa.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
