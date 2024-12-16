@@ -48,12 +48,39 @@
 </p>
 <p>
 
+**Local DNS Cache Exercise**
 
-6.) 
+6.) On DC-1, update the A-record for "mainframe" to point to 8.8.8.8.
 
 <p>
-<img src="https://imgur.com/rxrv2np.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/PTNSfxZ.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
-**Local DNS Cache Exercise**
+
+7.) Return to Client-1 and ping "mainframe" again. Note that it still resolves to the old address due to cached DNS records.
+
+<p>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+8.) View the local DNS cache on Client-1 by running the command: "ipconfig /displaydns"
+Then, flush the DNS cache by running: "ipconfig /flushdns"
+
+<p>
+<img src="https://imgur.com/Edf2Ena.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/3nOtK8c.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/hE0qMp1.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+9.) 
