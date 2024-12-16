@@ -125,3 +125,17 @@ Then, flush the DNS cache by running: "ipconfig /flushdns"
 <img src="https://imgur.com/X7ZTJCa.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+
+12.) Return to Client-1 and attempt to ping "search". Observe that the CNAME record resolves "search" to "www.google.com", and the ping displays the IP address associated with www.google.com.
+
+<p>
+<img src="https://imgur.com/yYz6SSN.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+13.) On Client-1, run the following command: "nslookup search" Observe that the output shows the CNAME record pointing "search" to www.google.com. The result will also display the IP address associated with www.google.com.
+
+<p>
+<img src="https://imgur.com/ComkbuT.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
