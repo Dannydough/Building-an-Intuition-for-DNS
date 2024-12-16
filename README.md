@@ -104,3 +104,10 @@ Then, flush the DNS cache by running: "ipconfig /flushdns"
 <img src="https://imgur.com/5h62y3M.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+
+10.) Attempt to ping "mainframe" again from Client-1. Observe that the new address from the updated DNS record (8.8.8.8) is now being resolved and displayed.
+
+<p>
+<img src="https://imgur.com/nkjtIjv.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
