@@ -41,11 +41,19 @@
 </p>
 <p>
 
-5.) Create a DNS A-record on DC-1 for "mainframe" and configure it to point to DC-1's private IP address.
+5.)  Return to **Client-1** and retry pinging "mainframe." Verify that the ping is now successful.
 
 <p>
 <img src="https://imgur.com/rxrv2np.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
-6.) Return to **Client-1** and retry pinging "mainframe." Verify that the ping is now successful.
+
+6.)
+
+<p>
+<img src="https://imgur.com/rxrv2np.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+**Local DNS Cache Exercise**
