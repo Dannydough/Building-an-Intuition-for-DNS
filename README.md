@@ -49,7 +49,7 @@
 <p>
 
 
-6.)
+6.) 
 
 <p>
 <img src="https://imgur.com/rxrv2np.png" height="80%" width="80%" alt="Configuration Steps"/>
