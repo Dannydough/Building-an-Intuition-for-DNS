@@ -83,4 +83,24 @@ Then, flush the DNS cache by running: "ipconfig /flushdns"
 </p>
 <p>
 
-9.) 
+9.) Verify that the DNS cache is now empty by running the command: "ipconfig /displaydns"
+
+<p>
+<img src="https://imgur.com/YhpMGgH.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/O7MWIgH.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/wtHy7tu.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/5h62y3M.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
