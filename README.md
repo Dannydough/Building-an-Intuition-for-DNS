@@ -3,8 +3,8 @@
 </p>
 
 <h1>Understanding DNS</h1>
-This lab focuses on DNS and how it is used. DNS is a fundamental concept in IT and many sources go over the theory behind it. I will be configuring DNS records and seeing how it works in practice. This is building up from a previous lab where I have a client joined to my domain ernestotest.com. I am logged in as Jane Doe (an admin account) on both the client and domain controller VMs. In order for the lab to work, you need to be logged in as an administrator. <br />
 
+This lab explores the practical application of DNS, a foundational concept in IT that is often covered in theory across various resources. In this exercise, I will configure DNS records to understand how they function in real-world scenarios. Building on a previous lab where a client was joined to the domain ernestotest.com, I am logged in as Jane Doe (an administrator) on both the client and domain controller VMs. Administrative privileges are required for this lab to ensure proper configuration and functionality.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -158,3 +158,6 @@ Then, flush the DNS cache by running: "ipconfig /flushdns"
 <img src="https://imgur.com/ComkbuT.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+<h2>Conclusion</h2>
+
+*This lab provided hands-on experience with DNS configuration, including creating and updating A-records, working with local DNS cache, and configuring CNAME records. Through these exercises, I observed the practical application of DNS in resolving hostnames to IP addresses and ensuring accurate network communication. These skills are fundamental for managing and troubleshooting DNS in a business environment, laying the groundwork for advanced network management tasks.*
