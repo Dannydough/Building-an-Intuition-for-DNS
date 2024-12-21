@@ -80,7 +80,7 @@ This lab explores the practical application of DNS, a foundational concept in IT
 7.) Return to Client-1 and ping "mainframe" again. Note that it still resolves to the old address due to cached DNS records.
 
 <p>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/mtTvcx3.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
